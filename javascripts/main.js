@@ -1,3 +1,1 @@
-function helloWorld() {
-  alert("Hello world from github!")
-}
+console.log('This would be the main JS file.');
